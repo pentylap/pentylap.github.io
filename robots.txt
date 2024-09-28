@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pentylap.github.io/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/app/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/assets/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/css/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/data/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/includes/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/item/sitemap.pentylap.gz
+Sitemap: https://pentylap.github.io/src/sitemap.pentylap.gz
